@@ -145,7 +145,7 @@
   <MachAlt />
   <SimulationList>
     <Simulation>
-      <SustainerEngine>K478  (Polaris)</SustainerEngine>
+      <SustainerEngine>K642-NC  (Polaris)</SustainerEngine>
       <SustainerLaunchWt>3.33</SustainerLaunchWt>
       <SustainerNozzleDiameter>1.325</SustainerNozzleDiameter>
       <SustainerCG>21.86</SustainerCG>
@@ -163,9 +163,9 @@
       <Booster2NozzleDiameter>0</Booster2NozzleDiameter>
       <IncludeBooster2>False</IncludeBooster2>
       <FlightTime>0</FlightTime>
-      <TimetoApogee>85.90919</TimetoApogee>
-      <MaxAltitude>126198.3</MaxAltitude>
-      <MaxVelocity>4841.818</MaxVelocity>
+      <TimetoApogee>83.89876</TimetoApogee>
+      <MaxAltitude>120753</MaxAltitude>
+      <MaxVelocity>4661.887</MaxVelocity>
       <OptimumWt>3.475688</OptimumWt>
       <OptimumMaxAlt>3.475688</OptimumMaxAlt>
     </Simulation>
