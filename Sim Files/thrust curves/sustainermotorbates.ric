@@ -10,7 +10,31 @@ data:
     timestep: 0.03
   grains:
   - properties:
-      coreDiameter: 0.012700025400050802
+      coreDiameter: 0.009525019050038101
+      diameter: 0.032359664719329446
+      inhibitedEnds: Neither
+      length: 0.08255016510033021
+    type: BATES
+  - properties:
+      coreDiameter: 0.009525019050038101
+      diameter: 0.032359664719329446
+      inhibitedEnds: Neither
+      length: 0.07620015240030481
+    type: BATES
+  - properties:
+      coreDiameter: 0.009525019050038101
+      diameter: 0.032359664719329446
+      inhibitedEnds: Neither
+      length: 0.07620015240030481
+    type: BATES
+  - properties:
+      coreDiameter: 0.009525019050038101
+      diameter: 0.032359664719329446
+      inhibitedEnds: Neither
+      length: 0.07620015240030481
+    type: BATES
+  - properties:
+      coreDiameter: 0.010795021590043181
       diameter: 0.032359664719329446
       inhibitedEnds: Neither
       length: 0.07620015240030481
@@ -19,58 +43,34 @@ data:
       coreDiameter: 0.012700025400050802
       diameter: 0.032359664719329446
       inhibitedEnds: Neither
-      length: 0.07620015240030481
+      length: 0.06350012700025401
     type: BATES
   - properties:
-      coreDiameter: 0.012700025400050802
-      diameter: 0.032359664719329446
-      inhibitedEnds: Neither
-      length: 0.07620015240030481
-    type: BATES
-  - properties:
-      coreDiameter: 0.012700025400050802
-      diameter: 0.032359664719329446
-      inhibitedEnds: Neither
-      length: 0.07620015240030481
-    type: BATES
-  - properties:
-      coreDiameter: 0.012700025400050802
-      diameter: 0.032359664719329446
-      inhibitedEnds: Neither
-      length: 0.07620015240030481
-    type: BATES
-  - properties:
-      coreDiameter: 0.012700025400050802
-      diameter: 0.032359664719329446
-      inhibitedEnds: Neither
-      length: 0.07620015240030481
-    type: BATES
-  - properties:
-      coreDiameter: 0.015875031750063502
+      coreDiameter: 0.013652527305054611
       diameter: 0.032359664719329446
       inhibitedEnds: Neither
       length: 0.06350012700025401
     type: BATES
   nozzle:
-    convAngle: 65.0
+    convAngle: 45.0
     divAngle: 15.0
     efficiency: 0.9
     erosionCoeff: 0.0
     exit: 0.03468643637287275
     slagCoeff: 0.0
-    throat: 0.011112522225044452
-    throatLength: 0.0
+    throat: 0.009525019050038101
+    throatLength: 0.0031750063500127004
   propellant:
-    density: 1674.6338641415216
-    name: Alex P Motor prop
+    density: 1567.7894556194346
+    name: Chase Slow
     tabs:
-    - a: 4.479342932566496e-05
-      k: 1.206
-      m: 25.207
-      maxPressure: 13790000.000000002
+    - a: 1.6005032319335498e-05
+      k: 1.254346
+      m: 20.9324
+      maxPressure: 8274000.000000001
       minPressure: 0.0
-      n: 0.3
-      t: 2938.0
+      n: 0.367805
+      t: 2170.81
 type: !!python/object/apply:uilib.fileIO.fileTypes
 - 3
 version: !!python/tuple
