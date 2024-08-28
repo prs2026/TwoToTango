@@ -10,15 +10,16 @@ data:
     timestep: 0.005
   grains:
   - properties:
-      coreDiameter: 0.010795021590043181
+      aftCoreDiameter: 0.013335026670053342
       diameter: 0.047625095250190506
-      inhibitedEnds: Bottom
+      forwardCoreDiameter: 0.009525019050038101
+      inhibitedEnds: Both
       length: 0.38100076200152405
-    type: BATES
+    type: Conical
   - properties:
-      coreDiameter: 0.010795021590043181
+      coreDiameter: 0.016510033020066043
       diameter: 0.047625095250190506
-      finLength: 0.012700025400050802
+      finLength: 0.011430022860045722
       finWidth: 0.0031750063500127004
       inhibitedEnds: Top
       length: 0.16510033020066042
@@ -31,19 +32,19 @@ data:
     erosionCoeff: 0.0
     exit: 0.038100076200152405
     slagCoeff: 0.0
-    throat: 0.012700025400050802
+    throat: 0.015875031750063502
     throatLength: 0.0031750063500127004
   propellant:
-    density: 1610.970097405563
-    name: RR
+    density: 1711.7249282398627
+    name: Alex Performance Fast
     tabs:
-    - a: 8.755565848145842e-06
-      k: 1.198
-      m: 24.980001
-      maxPressure: 10342500.000000002
+    - a: 1.0707556481836478e-05
+      k: 1.192
+      m: 28.849
+      maxPressure: 13790000.000000002
       minPressure: 0.0
-      n: 0.412
-      t: 2977.0
+      n: 0.426
+      t: 3402.0
 type: !!python/object/apply:uilib.fileIO.fileTypes
 - 3
 version: !!python/tuple

@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+BR1,~,PinHeader_1x06_P2.54mm_Vertical,175.9204,-58.8264,180.0,top
+BT1,Battery,PinHeader_1x02_P1.27mm_Vertical,157.9776,-72.644,90.0,top
+BT2,Battery,PinHeader_1x02_P1.27mm_Vertical,158.8112,-47.498,-90.0,top
+BT3,Battery,CONN-TH_2P-P2.00_PH-2AK,185.7756,-46.3296,0.0,bottom
+GPS1,~,PinHeader_1x02_P2.54mm_Vertical,107.696776,-55.581502,-92.0,top
+J1,Conn_01x02,PinHeader_1x02_P2.54mm_Vertical,180.7464,-48.1126,0.0,top
+J2,Conn_01x02,PinHeader_1x02_P2.54mm_Vertical,232.1052,-68.9914,0.0,top
+LYRA1,~,PinHeader_1x04_P2.54mm_Vertical,159.3088,-56.5812,90.0,top
+SW1,SW_DIP_x01,PinHeader_2x01_P2.54mm_Horizontal,167.9956,-73.5076,-90.0,top
+SW2,SW_DIP_x01,PinHeader_2x01_P2.54mm_Horizontal,164.338,-73.5076,270.0,bottom
+SW3,SW_DIP_x01,PinHeader_2x01_P2.54mm_Horizontal,180.7464,-73.4568,270.0,bottom
+SW4,SW_DIP_x01,PinHeader_1x01_P2.54mm_Horizontal,184.404,-74.7268,-90.0,top

@@ -149,7 +149,7 @@
       <SustainerLaunchWt>3.4</SustainerLaunchWt>
       <SustainerNozzleDiameter>1.325</SustainerNozzleDiameter>
       <SustainerCG>21.86</SustainerCG>
-      <SustainerIgnitionDelay>3</SustainerIgnitionDelay>
+      <SustainerIgnitionDelay>2</SustainerIgnitionDelay>
       <Booster1Engine>H550  (AT)</Booster1Engine>
       <Booster1LaunchWt>6.22</Booster1LaunchWt>
       <Booster1SeparationDelay>0</Booster1SeparationDelay>
@@ -163,9 +163,9 @@
       <Booster2NozzleDiameter>0</Booster2NozzleDiameter>
       <IncludeBooster2>False</IncludeBooster2>
       <FlightTime>0</FlightTime>
-      <TimetoApogee>31.60061</TimetoApogee>
-      <MaxAltitude>21032.13</MaxAltitude>
-      <MaxVelocity>2829.664</MaxVelocity>
+      <TimetoApogee>30.56059</TimetoApogee>
+      <MaxAltitude>20931.97</MaxAltitude>
+      <MaxVelocity>2847.533</MaxVelocity>
       <OptimumWt>3.7125</OptimumWt>
       <OptimumMaxAlt>3.7125</OptimumMaxAlt>
     </Simulation>

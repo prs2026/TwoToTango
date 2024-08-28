@@ -86,7 +86,7 @@
       <InsideDiameter>1.575</InsideDiameter>
       <LaunchLugDiameter>0</LaunchLugDiameter>
       <LaunchLugLength>0</LaunchLugLength>
-      <RailGuideDiameter>0.3</RailGuideDiameter>
+      <RailGuideDiameter>0.25</RailGuideDiameter>
       <RailGuideHeight>0.25</RailGuideHeight>
       <LaunchShoeArea>0</LaunchShoeArea>
       <Location>40.43</Location>
@@ -163,9 +163,9 @@
       <Booster2NozzleDiameter>0</Booster2NozzleDiameter>
       <IncludeBooster2>False</IncludeBooster2>
       <FlightTime>0</FlightTime>
-      <TimetoApogee>54.15755</TimetoApogee>
-      <MaxAltitude>54986.07</MaxAltitude>
-      <MaxVelocity>3624.388</MaxVelocity>
+      <TimetoApogee>54.26753</TimetoApogee>
+      <MaxAltitude>55212.04</MaxAltitude>
+      <MaxVelocity>3628.199</MaxVelocity>
       <OptimumWt>3.7125</OptimumWt>
       <OptimumMaxAlt>3.7125</OptimumMaxAlt>
     </Simulation>
