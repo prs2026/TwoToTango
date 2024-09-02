@@ -29,21 +29,21 @@ data:
     divAngle: 15.0
     efficiency: 0.9
     erosionCoeff: 0.0
-    exit: 0.04198051816103633
+    exit: 0.04010068580137161
     slagCoeff: 0.0
     throat: 0.012700025400050802
     throatLength: 0.006350012700025401
   propellant:
-    density: 1671.8658742834366
-    name: AlexProp1
+    density: 1711.7249282398627
+    name: Alex Performance Fast
     tabs:
-    - a: 4.479342932566496e-05
-      k: 1.206
-      m: 25.207
+    - a: 1.0707556481836478e-05
+      k: 1.192
+      m: 28.849
       maxPressure: 13790000.000000002
       minPressure: 0.0
-      n: 0.3
-      t: 2938.0
+      n: 0.426
+      t: 3402.0
 type: !!python/object/apply:uilib.fileIO.fileTypes
 - 3
 version: !!python/tuple

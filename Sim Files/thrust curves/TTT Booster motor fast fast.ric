@@ -12,14 +12,14 @@ data:
   - properties:
       coreDiameter: 0.017957835915671832
       diameter: 0.047625095250190506
-      inhibitedEnds: Bottom
-      length: 0.40894081788163583
+      inhibitedEnds: Neither
+      length: 0.3937007874015749
     type: BATES
   - properties:
-      coreDiameter: 0.022860045720091444
+      coreDiameter: 0.015240030480060961
       diameter: 0.047625095250190506
-      finLength: 0.007620015240030481
-      finWidth: 0.0025400050800101605
+      finLength: 0.011430022860045722
+      finWidth: 0.005080010160020321
       inhibitedEnds: Top
       length: 0.15240030480060962
       numFins: 4
@@ -27,11 +27,11 @@ data:
   nozzle:
     convAngle: 45.0
     divAngle: 15.0
-    efficiency: 0.98
+    efficiency: 0.95
     erosionCoeff: 0.0
-    exit: 0.05080010160020321
+    exit: 0.038100076200152405
     slagCoeff: 0.0
-    throat: 0.015468630937261876
+    throat: 0.014287528575057152
     throatLength: 0.0031750063500127004
   propellant:
     density: 1633.114016270244
