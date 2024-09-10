@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Altimeters")(type "KiCad")(uri "${KIPRJMOD}/Altimeters.kicad_sym")(options "")(descr ""))
+)
