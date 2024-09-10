@@ -149,13 +149,8 @@
       <SustainerLaunchWt>3.6</SustainerLaunchWt>
       <SustainerNozzleDiameter>1.325</SustainerNozzleDiameter>
       <SustainerCG>21.86</SustainerCG>
-<<<<<<< Updated upstream
       <SustainerIgnitionDelay>5</SustainerIgnitionDelay>
-      <Booster1Engine>L1265AB  (Polaris)</Booster1Engine>
-=======
-      <SustainerIgnitionDelay>8</SustainerIgnitionDelay>
       <Booster1Engine>L1000  (AT)</Booster1Engine>
->>>>>>> Stashed changes
       <Booster1LaunchWt>9.6</Booster1LaunchWt>
       <Booster1SeparationDelay>0</Booster1SeparationDelay>
       <Booster1IgnitionDelay>0</Booster1IgnitionDelay>
@@ -168,15 +163,9 @@
       <Booster2NozzleDiameter>0</Booster2NozzleDiameter>
       <IncludeBooster2>False</IncludeBooster2>
       <FlightTime>0</FlightTime>
-<<<<<<< Updated upstream
-      <TimetoApogee>48.7882</TimetoApogee>
-      <MaxAltitude>51041.26</MaxAltitude>
-      <MaxVelocity>3632.988</MaxVelocity>
-=======
-      <TimetoApogee>51.07794</TimetoApogee>
-      <MaxAltitude>50270.58</MaxAltitude>
-      <MaxVelocity>3529.247</MaxVelocity>
->>>>>>> Stashed changes
+      <TimetoApogee>48.74833</TimetoApogee>
+      <MaxAltitude>49627.14</MaxAltitude>
+      <MaxVelocity>3533.674</MaxVelocity>
       <OptimumWt>3.7125</OptimumWt>
       <OptimumMaxAlt>3.7125</OptimumMaxAlt>
     </Simulation>
