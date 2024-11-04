@@ -29,7 +29,7 @@ data:
     divAngle: 15.0
     efficiency: 0.98
     erosionCoeff: 0.0
-    exit: 0.05080010160020321
+    exit: 0.031750063500127004
     slagCoeff: 0.0
     throat: 0.017462534925069852
     throatLength: 0.0031750063500127004
