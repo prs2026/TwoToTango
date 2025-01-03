@@ -1,7 +1,7 @@
 #inputs
 
-totallength = 4.3 #total length of charge cannon (in)
-innerdia = 0.22  #inner diameter of cannon tube (in)
+totallength = 4 #total length of charge cannon (in)
+innerdia = 0.31  #inner diameter of cannon tube (in)
 
 wantedcharge = 2 #wanted max charge with 10:1 L:D barrel(g)
 
