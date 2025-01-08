@@ -12,7 +12,7 @@ data:
   - properties:
       coreDiameter: 0.017957835915671832
       diameter: 0.047625095250190506
-      inhibitedEnds: Bottom
+      inhibitedEnds: Both
       length: 0.40894081788163583
     type: BATES
   - properties:
@@ -20,7 +20,7 @@ data:
       diameter: 0.047625095250190506
       finLength: 0.007620015240030481
       finWidth: 0.0025400050800101605
-      inhibitedEnds: Top
+      inhibitedEnds: Both
       length: 0.15240030480060962
       numFins: 4
     type: Finocyl
